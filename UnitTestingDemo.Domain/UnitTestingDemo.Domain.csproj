@@ -48,8 +48,13 @@
   <ItemGroup>
     <Compile Include="Account.cs" />
     <Compile Include="AccountAction.cs" />
+    <Compile Include="AccountClients.cs" />
+    <Compile Include="AccountLetterTrace.cs" />
+    <Compile Include="AccountLetter.cs" />
+    <Compile Include="AccountWarehouse.cs" />
     <Compile Include="LastAccountScore.cs" />
     <Compile Include="AccountScore.cs" />
+    <Compile Include="Portfolio1.cs" />
     <Compile Include="RightTimeToDial.cs" />
     <Compile Include="ScoreModelResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
